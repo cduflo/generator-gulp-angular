@@ -15,6 +15,9 @@
 > * Add reference to app/components/index.module.js
 > * Add route to app/components/index.routes.js
 
+> Deploy
+> https://devsaik.wordpress.com/2016/01/18/gulp-angular-app-deployment-to-heroku/
+
 > Yeoman generator for AngularJS + Gulp.
 
 > Lets you quickly set up a project with:
