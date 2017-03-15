@@ -8,6 +8,12 @@
 [![Dependencies](http://img.shields.io/david/Swiip/generator-gulp-angular.svg?style=flat-square)](https://david-dm.org/eleven-labs/generator-gulp-angular)
 [![NPM Version](http://img.shields.io/npm/v/generator-gulp-angular.svg?style=flat-square)](https://www.npmjs.org/package/generator-gulp-angular)
 [![Download Month](http://img.shields.io/npm/dm/generator-gulp-angular.svg?style=flat-square)](https://www.npmjs.org/package/generator-gulp-angular)
+> CDuflo notes
+
+> New Views:
+> * Duplicate existing app/components/* structure
+> * Add reference to app/components/index.module.js
+> * Add route to app/components/index.routes.js
 
 > Yeoman generator for AngularJS + Gulp.
 
