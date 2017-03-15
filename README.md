@@ -10,6 +10,12 @@
 [![Download Month](http://img.shields.io/npm/dm/generator-gulp-angular.svg?style=flat-square)](https://www.npmjs.org/package/generator-gulp-angular)
 > CDuflo notes
 
+> Dev:
+> * gulp serve
+
+> Deploy:
+> * see deployment.md
+
 > New Views:
 > * Duplicate existing app/components/* structure
 > * Add reference to app/components/index.module.js
